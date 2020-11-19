@@ -1,0 +1,10 @@
+//hello world in c programme
+
+#include<stdio.h>
+ void main(){
+
+	printf("Hello World !");
+
+}
+
+python
