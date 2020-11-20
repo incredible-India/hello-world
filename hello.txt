@@ -1,23 +1,31 @@
-//hello world in c programme
+
+///////////////////hello world in c programme////////////////////////
 
 #include<stdio.h>
- void main(){
+
+ void main()
+
+{
 
 	printf("Hello World !");
 
 }
 
 
-# in  python
+//////////////////////in  python///////////////
+
+
 print("Hello World !")
 
 
-<!--in html-- this is not a programming language>
+////////////////////in html//////////////////////
+
+
 <h1>Hello World !</h1>
 
 
 
-//in javascript
+////////////////in javascript///////////////////
 
 console.log("Hello world !")
 
