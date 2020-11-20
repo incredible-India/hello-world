@@ -14,3 +14,10 @@ print("Hello World !")
 
 <!--in html-- this is not a programming language>
 <h1>Hello World !</h1>
+
+
+
+//in javascript
+
+console.log("Hello world !")
+
