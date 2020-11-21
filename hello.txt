@@ -30,3 +30,7 @@ print("Hello World !")
 
 console.log("Hello world !")
 
+
+
+///////////////PHP//////////////////////
+echo "hello world"
