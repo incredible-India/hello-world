@@ -1,5 +1,5 @@
 ********** Hello world in different languages ***************
-
+  
 ///////////////////hello world in c programme////////////////////////
 
 #include<stdio.h>
@@ -34,5 +34,5 @@ console.log("Hello world !")
 
 
 
-///////////////PHP//////////////////////
+///////////////PHP///////////////////////
 echo "hello world"
