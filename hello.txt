@@ -2,7 +2,7 @@
   
 /////////////////legion lenovo//hello world in c programme////////////////////////
 
-#include<stdio.h>
+
 
  void main()
 
